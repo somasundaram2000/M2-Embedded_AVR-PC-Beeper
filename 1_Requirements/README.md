@@ -30,7 +30,7 @@
 - Chip will be damaged because of too much current.
 
 
-## 4Ws and 1H :
+## 4W's and 1H :
 ### Why :
 - A 8x8 LED Matrix is used to display the information.
 
@@ -46,4 +46,18 @@
 ### How :
 - It is a grid of lights arranged in rows and columns.
 - All the anodes are connected together in R1 to R8 and cathodes are connected together in columns C1 to C8.
+
+
+## Detail Requirements :
+### High Level Requirements :
+|ID | Description | Result
+|--------|-------------|-------------
+| HLR1 | Power ON & give input| Implemented         
+| HLR2 | Return Output | Implemented
+
+### Low Level Requirements :
+|ID | Description | Result
+|--------|-------------|-------------
+| LLR1 | Displays Information| Implemented         
+| LLR2 | Return Output | Implemented
 
