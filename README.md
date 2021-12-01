@@ -1,6 +1,6 @@
 ## M2-Embedded_8x8-LED-Matrix
 
-## 8x8- LED Martrix :
+## 8x8 LED Martrix :
 
 ## Introduction :
 - A 8x8 LED Matrix interfacing is used to display the English characters. 
