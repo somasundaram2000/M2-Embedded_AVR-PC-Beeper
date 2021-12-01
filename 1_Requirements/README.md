@@ -6,22 +6,15 @@
 - In 8x8 LED Matrix, all the anodes are connected together in R1 to R8 and cathodes are connected together in columns C1 to C8.
 
 
-## Hardware :
-- 8x8 LED Matrix
-- USB Type A to Type B cable
-- Arduino Uno with the Atmel ATmega328p microcontroller
-- 16 1k Resistor
-
-
 ## SWOT Analysis : 
 ### Strengths :
-- Power saving
-- Long service life
-- Cost advantage
+- Power saving.
+- Long service life.
+- Cost advantage.
 
 ### Weakness :
-- Difficulty in maintaining
-- High calorific value
+- Difficulty in maintaining.
+- To perform this operation, power supply is always needed.
 
 ### Opportunities : 
 - To interface an Arduino Uno board with an 8x8 LED Matrix to display information.
@@ -42,6 +35,7 @@
 
 ### When :
 - To display the information in different styles.
+- Used to display Speed limits.
 
 ### How :
 - It is a grid of lights arranged in rows and columns.
@@ -52,12 +46,13 @@
 ### High Level Requirements :
 |ID | Description | Result
 |--------|-------------|-------------
-| HLR1 | Power ON & give input| Implemented         
-| HLR2 | Return Output | Implemented
+| HLR1 | Input Unit | Implemented         
+| HLR2 | Output Unit | Implemented
+| HLR3 | Software Design | Implemented
 
 ### Low Level Requirements :
 |ID | Description | Result
 |--------|-------------|-------------
-| LLR1 | Displays Information| Implemented         
+| LLR1 | Displays Information | Implemented         
 | LLR2 | Return Output | Implemented
 
