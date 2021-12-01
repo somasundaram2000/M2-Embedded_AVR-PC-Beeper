@@ -1,4 +1,4 @@
-## 8x8- LED Martrix :
+# 8x8- LED Martrix :
 
 ## Introduction :
 - A 8x8 LED Matrix interfacing is used to display the English characters. 
@@ -14,36 +14,36 @@
 
 
 ## SWOT Analysis : 
-# Strengths :
+### Strengths :
 - Power saving
 - Long service life
 - Cost advantage
 
-# Weakness :
+### Weakness :
 - Difficulty in maintaining
 - High calorific value
 
-# Opportunities : 
+### Opportunities : 
 - To interface an Arduino Uno board with an 8x8 LED Matrix to display information.
 
-# Threats :
+### Threats :
 - Chip will be damaged because of too much current.
 
 
 ## 4Ws and 1H :
-# Why :
+### Why :
 - A 8x8 LED Matrix is used to display the information.
 
-# Where :
+### Where :
 - It is used to interface Microprocessors and microcontrollers with LEDs.
 
-# Who :
+### Who :
 - Can be used as a reference for 8x8 LED Matrix.
 
-# When :
+### When :
 - To display the information in different styles.
 
-# How :
+### How :
 - It is a grid of lights arranged in rows and columns.
 - All the anodes are connected together in R1 to R8 and cathodes are connected together in columns C1 to C8.
 
