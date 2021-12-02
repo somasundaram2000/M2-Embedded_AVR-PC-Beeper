@@ -1,4 +1,4 @@
-# 8x8 LED Martrix :
+# 8x8 LED Matrix :
 
 ## Introduction :
 - A 8x8 LED Matrix interfacing is used to display the English characters. 
