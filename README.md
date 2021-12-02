@@ -1,6 +1,8 @@
 # M2-Embedded_8x8-LED-Matrix
+## 8x8 LED Matrix :
 
-## 8x8 LED Martrix :
+[![Cppcheck](https://github.com/somasundaram2000/M2-Embedded_AVR-PC-Beeper/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/somasundaram2000/M2-Embedded_AVR-PC-Beeper/actions/workflows/cppcheck.yml)
+
 
 ## Introduction :
 - A 8x8 LED Matrix interfacing is used to display the English characters. 
