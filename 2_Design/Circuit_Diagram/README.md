@@ -1,4 +1,5 @@
-# Simulation Diagram :
+# Circuit Diagram :
+
+![Circuit Diagram](https://user-images.githubusercontent.com/94282752/144390475-1a9ed2f1-371c-4541-b12e-fb0ab44e4dae.png)
 
 
-![Simulation Diagram](https://user-images.githubusercontent.com/94282752/144289587-e7b89427-4b65-45f6-9573-c6f0be316397.png)
