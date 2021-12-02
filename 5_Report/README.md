@@ -74,7 +74,4 @@
 | ID 02 | Return Output | Input value by user | Shows Output in Display | SUCCESS
 
 
-## Circuit Diagram : 
-
-![Circuit Diagram](https://user-images.githubusercontent.com/94282752/144390990-588ed59b-22b1-4182-ab53-2fbeafed6975.png)
 
