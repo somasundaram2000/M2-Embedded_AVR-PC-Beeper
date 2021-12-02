@@ -57,7 +57,7 @@
 | HLR3 | Software Design | Implemented
 
 
-### Low Level Requirements
+### Low Level Requirements :
 | ID | Description | Status |
 |----|-------------|--------|
 | LLR1 | AVR Atmega 328 Microcontroller | Implemented |    
@@ -65,7 +65,7 @@
 | LLR3 | Visual Studio Code & Simulide | Implemented |
 
 
-# Test Plan
+# Test Plan :
 
 |Test ID | Description | Input | Exp O/P | Actual O/P |
 |--------|-------------|---------|------------|--------
