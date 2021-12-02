@@ -79,5 +79,5 @@
 
 ## Circuit Diagram : 
 
-![Output Image](https://user-images.githubusercontent.com/94282752/144388422-022f34e9-48c2-4a68-8f8b-d8c61623f33b.png)
+![Circuit Diagram](https://user-images.githubusercontent.com/94282752/144390990-588ed59b-22b1-4182-ab53-2fbeafed6975.png)
 
