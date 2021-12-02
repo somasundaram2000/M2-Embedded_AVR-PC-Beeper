@@ -1,6 +1,6 @@
 /**
  * @file 8x8Matrix.h
- * @author Somasundaram
+ * @author Somasundaram V L
  * @brief 
  * @version 0.1
  * @date 2021-11-30
