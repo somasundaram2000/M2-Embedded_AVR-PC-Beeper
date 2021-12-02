@@ -50,9 +50,10 @@
 | HLR2 | Output Unit | Implemented
 | HLR3 | Software Design | Implemented
 
-### Low Level Requirements :
-|ID | Description | Result
-|--------|-------------|-------------
-| LLR1 | Displays Information | Implemented         
-| LLR2 | Return Output | Implemented
 
+### Low Level Requirements
+| ID | Description | Status |
+|----|-------------|--------|--------|
+| LLR_1 | AVR Atmega 328 Microcontroller | Implemented |    
+| LLR_2 | 8x8 Matrix LED | Implemented |
+| LLR_3 | Visual Studio Code & Simulide | Implemented |
