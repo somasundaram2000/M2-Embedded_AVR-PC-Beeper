@@ -1,3 +1,4 @@
 ## Circuit Diagram :
 
-![Output Image](https://user-images.githubusercontent.com/94282752/144387920-2062314a-4d94-4ec1-9a3e-c9802d0865a3.png)
+![Circuit Diagram](https://user-images.githubusercontent.com/94282752/144390760-e599244d-0091-4bb6-a9ce-d60ac7bd53a0.png)
+
