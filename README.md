@@ -2,6 +2,7 @@
 ## 8x8 LED Matrix :
 
 [![Cppcheck](https://github.com/somasundaram2000/M2-Embedded_AVR-PC-Beeper/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/somasundaram2000/M2-Embedded_AVR-PC-Beeper/actions/workflows/cppcheck.yml)
+[![Build Status](https://github.com/somasundaram2000/M2-Embedded_AVR-PC-Beeper/actions/workflows/compile.yml/badge.svg)](https://github.com/somasundaram2000/M2-Embedded_AVR-PC-Beeper/actions/workflows/compile.yml)
 
 
 ## Introduction :
